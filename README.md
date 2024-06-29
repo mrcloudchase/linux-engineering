@@ -13,6 +13,9 @@ Welcome to the Linux Engineering Learning Path! This repository will guide you f
 8. [Managing Processes and System Resources](#managing-processes-and-system-resources)
 9. [Shell Scripting for IT Automation](#shell-scripting-for-it-automation)
 10. [Virtualization and Containerization](#virtualization-and-containerization)
+11. [What You Learned](#what-you-learned)
+12. [Additional Resources](#additional-resources)
+13. [What's Next?](#whats-next)
 
 ## Introduction to Linux
 - **What is Linux?**
@@ -116,12 +119,20 @@ Welcome to the Linux Engineering Learning Path! This repository will guide you f
    - [Docker Basics - YouTube](https://www.youtube.com/watch?v=fqMOX6JJhGo)
    - [Docker - Article](https://www.docker.com/resources/what-container)
 
+
 ## What You Learned
 If you used the resources above, you should have a good understanding of Linux and you might have even discovered other areas of interest within the massive world of Linux. You can spend a lot of time going down rabbit holes in Linux, but remember to focus on the basics first and build a solid foundation.
 
+## Additional Resources
+- [Linux Course for Beginners - YouTube](https://www.youtube.com/watch?v=sWbUDq4S6Y8)
+- [Linux Survival - Gamification](https://linuxsurvival.com/)
+- [CMD Challenge - Gamification](https://cmdchallenge.com/)
+- [Linux Bible - Book](https://archive.org/details/negus-c.-linux-bible-10ed-2020-negus-c.-linux-bible-10ed-2020/mode/2up)
+
+
 ## What's Next?
 After completing this learning path, you can explore other learning paths to further your knowledge in other tech domains. Below are the learning paths you can choose from:
-- [Tech Fundamentals](../tech-fundamentals/README.md)
+- [Tech Fundamentals](https://github.com/mrcloudchase/tech-fundamentals)
 - [Cloud Engineering](../cloud-engineering/README.md)
 - [DevOps Engineering](../devops-engineering/README.md)
 - [AI Engineering](../ai-engineering/README.md)
